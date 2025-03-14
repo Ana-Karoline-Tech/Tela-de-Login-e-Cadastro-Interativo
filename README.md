@@ -1,4 +1,4 @@
                                                 TELA DE LOGIN E CADASTRO INTERATIVO
+![image](https://github.com/user-attachments/assets/7b0b9a01-548f-4c96-8573-a46b87aa1297)
+![image](https://github.com/user-attachments/assets/c722916a-5f4f-4500-a745-494ca79ce749)
 
-![image](https://github.com/user-attachments/assets/17438244-1618-4cf6-9aa0-73925d73ad07)
-![image](https://github.com/user-attachments/assets/7fbc433f-e3e7-46e1-9295-ad984c14cf89)
